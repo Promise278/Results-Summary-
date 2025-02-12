@@ -1,0 +1,131 @@
+body{
+    background-color: hsl(221, 100%, 96%);
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    font-family: "Hanken Grotesk", serif;
+    margin-top: 100px;
+}
+
+.header{
+    width: 350px;
+    height: 450px;
+    background-color: hsl(241, 81%, 54%);
+    border-radius: 35px;
+}
+
+.header h4{
+    color: hsl(241, 100%, 89%);
+    font-size: x-large;
+    padding-left: 115px;
+}
+
+.circle{
+    border-radius: 60px;
+    background-color: hsla(256, 72%, 46%, 1);
+    width: 150px;
+    height: 150px;
+    margin-left: 100px;
+}
+
+.circle p{
+    color: white;
+    font-size: xxx-large;
+    font-family: "Hanken Grotesk", serif;
+    padding-left: 50px;
+    padding-top: 35px;
+}
+
+.circle h3{
+    color: white;
+    font-size: x-large;
+    padding-left: 45px;
+}
+
+.png{
+    color: hsl(241, 100%, 89%);
+    margin-top: 85px;
+    padding-left: 55px;
+}
+
+span{
+    color: hsl(241, 100%, 89%);
+    padding-left: 20px;
+    /* padding-bottom: 20px; */
+}
+
+.mainer{
+    width: 320px;
+    height: 450px;
+    background-color:  hsl(0, 0%, 100%);
+    border-radius: 35px;
+    padding-left: 35px;
+    gap: 20px;
+}
+
+.mainer h3{
+    margin-top: 35px;
+    color: #303B59;
+}
+
+.reaction{
+    display: flex;
+    background-color: hsl(0, 33%, 95%);
+    color:  hsl(0, 100%, 67%);
+    border-radius: 10px;
+    width: 280px;
+    padding-left: 12px;
+}
+
+.memory{
+    display: flex;
+    background-color: hsl(0, 33%, 95%);
+    border-radius: 10px;
+    width: 280px;
+    color: hsl(39, 100%, 56%);
+    padding-left: 12px;
+}
+
+.verbal{
+    display: flex;
+    background-color: hsl(166, 62%, 92%);
+    border-radius: 10px;
+    width: 280px;
+    color: hsl(166, 100%, 37%);
+    padding-left: 12px;
+}
+
+.visual{
+    display: flex;
+    background-color: hsl(235, 77%, 91%);
+    border-radius: 10px;
+    width: 280px;
+    color: hsl(234, 85%, 45%);
+    padding-left: 12px;
+}
+
+.btn{
+    background-color: #303B59;
+    border-radius: 50px;
+    width: 280px;
+    height: 45px;
+    margin-top: 15px;
+    color: white;
+    border: none;
+    margin-left: 0px;
+}
+
+.pg{
+    color: hsl(241, 100%, 89%);
+    padding-left: 125px;
+}
+
+.num{
+    margin-left: 100px;
+}
+
+.num2{
+    padding-left: 115px;
+}
